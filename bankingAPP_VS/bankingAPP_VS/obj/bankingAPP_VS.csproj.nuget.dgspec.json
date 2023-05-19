@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 20\\bankingAPP_VS\\bankingAPP_VS\\bankingAPP_VS.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 20\\bankingAPP_github\\bankingAPP_VS\\bankingAPP_VS\\bankingAPP_VS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 20\\bankingAPP_VS\\bankingAPP_VS\\bankingAPP_VS.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 20\\bankingAPP_github\\bankingAPP_VS\\bankingAPP_VS\\bankingAPP_VS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 20\\bankingAPP_VS\\bankingAPP_VS\\bankingAPP_VS.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 20\\bankingAPP_github\\bankingAPP_VS\\bankingAPP_VS\\bankingAPP_VS.csproj",
         "projectName": "bankingAPP_VS",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 20\\bankingAPP_VS\\bankingAPP_VS\\bankingAPP_VS.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 20\\bankingAPP_github\\bankingAPP_VS\\bankingAPP_VS\\bankingAPP_VS.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 20\\bankingAPP_VS\\bankingAPP_VS\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\AXA Skilling\\Day 20\\bankingAPP_github\\bankingAPP_VS\\bankingAPP_VS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
